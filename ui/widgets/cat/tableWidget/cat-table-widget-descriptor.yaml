@@ -1,0 +1,6 @@
+code: cat-table-widget
+titles:
+  en: Cat Table Widget
+  it: Cat Table Widget
+group: free
+customUiPath: cat-table-widget.ftl

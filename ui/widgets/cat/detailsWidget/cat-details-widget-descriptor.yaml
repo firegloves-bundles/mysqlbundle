@@ -1,0 +1,6 @@
+code: cat-details-widget
+titles:
+  en: Cat Details Widget
+  it: Cat Details Widget
+group: free
+customUiPath: cat-details-widget.ftl

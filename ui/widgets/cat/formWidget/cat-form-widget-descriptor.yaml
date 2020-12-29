@@ -1,0 +1,6 @@
+code: cat-form-widget
+titles:
+  en: Cat Form Widget
+  it: Cat Form Widget
+group: free
+customUiPath: cat-form-widget.ftl
